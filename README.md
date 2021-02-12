@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 
 
 ## 𝗦𝘁𝗮𝘁𝘀 [![](https://vistr.dev/badge?repo=makiyamad.makiyamad&corners=square)](https://github.com/makiyamad/vistr.dev)
-
-![makiyamad's github stats](https://github-readme-stats.vercel.app/api?username=makiyamad&show_icons=true&theme=synthwave)
