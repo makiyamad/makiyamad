@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Daniel Makiyama!
 
 <!--
 **makiyamad/makiyamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ Fun fact: I am the creator of Techy Maki channel, a channel that comes from my long-time desire to share some cool stuff on software design, development & agility.
+- 📫 How to reach me: [![](https://img.shields.io/badge/-Daniel%20Makiyama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-makiyama-310b38a/)](https://www.linkedin.com/in/daniel-makiyama-310b38a/)
+
+## 𝗦𝘁𝗮𝘁𝘀 [![](https://vistr.dev/badge?repo=makiyamad.makiyamad&corners=square)](https://github.com/makiyamad/vistr.dev)
+
+![makiyamad's github stats](https://github-readme-stats.vercel.app/api?username=makiyamad&show_icons=true&theme=synthwave)
