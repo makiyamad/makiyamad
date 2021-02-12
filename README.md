@@ -1,4 +1,4 @@
-### Hi there 👋, I am Daniel Makiyama!
+### Hi there 👋, I am Daniel Makiyama
 
 <!--
 **makiyamad/makiyamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
