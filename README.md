@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact: I am the creator of the [![](https://img.shields.io/badge/-Techy%20Maki%20Channel-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/TechyMaki)](https://www.youtube.com/c/TechyMaki), a channel that comes from my long-time desire to share some cool stuff on software design, development & agility.
+- ⚡ Fun fact: I am the creator of the [![](https://img.shields.io/badge/-Techy%20Maki%20Channel-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/TechyMaki)](https://www.youtube.com/c/TechyMaki) - a channel that comes from my long-time desire to share some cool stuff on software design, development & agility.
 - 📫 How to reach me: [![](https://img.shields.io/badge/-Daniel%20Makiyama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-makiyama-310b38a/)](https://www.linkedin.com/in/daniel-makiyama-310b38a/)
 
 
